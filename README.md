@@ -1,7 +1,7 @@
 # adapt-reveal
 
 **Reveal** is a *presentation component* Created by Dan storey.
-<img align="right" src="https://raw.githubusercontent.com/danielstorey/assets/master/reveal-demo.png" alt="Reveal in action">
+<img src="https://raw.githubusercontent.com/danielstorey/assets/master/reveal-demo.png" alt="Reveal in action">
 
 The **Reveal** component displays panels of content hidden behind front covers. When clicked the cover animates to reveal the content below. A range of different animations are available as listed below. When clicked again the cover is restored.
 
