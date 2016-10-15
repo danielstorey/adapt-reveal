@@ -5,6 +5,8 @@
 
 The **Reveal** component displays panels of content hidden behind front covers. When clicked the cover animates to reveal the content below. A range of different animations are available as listed below. When clicked again the cover is restored.
 
+[**Click here for an interactive demo**](https://danielstorey.github.io/adapt-demo-course/#/id/co-main)
+
 ##Installation
 
 Simply copy this folder into src/components/ and run the `grunt build` command.
