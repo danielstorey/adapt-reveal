@@ -9,7 +9,7 @@ The **Reveal** component displays panels of content hidden behind front covers. 
 
 ##Installation
 
-Simply copy this folder into src/components/ and run the `grunt build` command.
+Run the following from the command line: `adapt install adapt-reveal`
 
 ## Settings Overview
 
