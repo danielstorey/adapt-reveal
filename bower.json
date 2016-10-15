@@ -1,6 +1,6 @@
 {
 	"name": "adapt-reveal",
-	"description": "Content is hidden behind covers. Click the cover and reveal the content below. Range of animations available.",
+	"description": "Content is hidden behind covers. Click the cover and reveal the content below. Range of animations. Demo available.",
 	"version": "1.0",
 	"framework": "^2.0.0",
 	"displayName": "Reveal",
