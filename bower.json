@@ -1,14 +1,14 @@
 {
-	"name": "adapt-reveal",
-	"description": "Content is hidden behind covers. Click the cover and reveal the content below. Range of animations. Demo available.",
+	"name": "adapt-expose",
+	"description": "Content is hidden behind covers. Click the cover and expose the content below. Range of animations. Demo available.",
 	"version": "1.0",
 	"framework": "^2.0.0",
-	"displayName": "Reveal",
-	"component": "reveal",
-	"main": "/js/adapt-reveal.js",
-	"homepage": "https://github.com/danielstorey/adapt-reveal",
-	"repository": "git://github.com/danielstorey/adapt-reveal.git",
-	"issues": "https://github.com/danielstorey/adapt-reveal/issues",
+	"displayName": "Expose",
+	"component": "expose",
+	"main": "/js/adapt-expose.js",
+	"homepage": "https://github.com/danielstorey/adapt-expose",
+	"repository": "git://github.com/danielstorey/adapt-expose.git",
+	"issues": "https://github.com/danielstorey/adapt-expose/issues",
 	"keywords": [
 		"adapt-plugin",
 		"adapt-component"
